@@ -218,7 +218,9 @@ Thumbs.db
 data/raw/
 data/processed/
 data/interim/
-
+.idea/
+.venv/
+.env
 
 
 
