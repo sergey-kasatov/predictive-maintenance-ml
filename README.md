@@ -12,7 +12,7 @@ Goal: predict whether maintenance is required based on vehicle usage and conditi
 
 ## Repository structure
 - `notebooks/` — EDA and modeling notebooks
-- `sql/` — optional SQL notes/queries (if used)
+- `sql/` — optional SQL notes/queries
 - `data/` — project notes and small samples (full dataset is kept local)
 - `images/` — charts and dashboard screenshots
 - `docs/` — short project notes and write-ups
