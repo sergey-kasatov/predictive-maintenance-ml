@@ -1,4 +1,4 @@
-# Predictive Maintenance — Maintenance Required Prediction (Case Study)
+# Predictive Maintenance - Maintenance Required Prediction (Case Study)
 
 Portfolio case study using a public Kaggle dataset (CC0).  
 Goal: predict whether maintenance is required based on vehicle usage and condition signals.
@@ -11,11 +11,11 @@ Goal: predict whether maintenance is required based on vehicle usage and conditi
 - Jupyter
 
 ## Repository structure
-- `notebooks/` — EDA and modeling notebooks
-- `sql/` — optional SQL notes/queries
-- `data/` — project notes and small samples (full dataset is kept local)
-- `images/` — charts and dashboard screenshots
-- `docs/` — short project notes and write-ups
+- `notebooks/` - EDA and modeling notebooks
+- `sql/` - optional SQL notes/queries
+- `data/` - project notes and small samples (full dataset is kept local)
+- `images/` - charts and dashboard screenshots
+- `docs/` - short project notes and write-ups
 
 ## Data
 - Source: Kaggle (CC0)
